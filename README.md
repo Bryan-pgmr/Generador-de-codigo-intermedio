@@ -38,7 +38,7 @@ Desde la carpeta raíz del proyecto ejecuta:
 python index.py
 ```
 
-En otro caso Ejecute el index.py desde el boton de ejecutar de visual studio.
+En otro caso Ejecute el `index.py` desde el boton de ejecutar de visual studio.
 
 ## Ejemplo válido precargado
 
