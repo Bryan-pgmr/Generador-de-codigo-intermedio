@@ -22,9 +22,13 @@ Proyecto de Lenguajes y Autómatas II para generar código intermedio de tres di
 - `infrastructure/`: lexer, parser y generadores de temporales/etiquetas.
 - `presentation/`: interfaz gráfica con Tkinter.
 
-## Ejecutar
+## Instrucciones de Ejecución
 
-Desde la carpeta raíz:
+Descargue el proyecto de GitHub
+
+Mueva el proyecto a una carpeta de visual studio
+
+Desde la carpeta raíz del proyecto ejecuta:
 
 ```bash
 python index.py
