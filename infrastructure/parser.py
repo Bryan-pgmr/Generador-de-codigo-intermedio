@@ -151,7 +151,7 @@ class Parser:
         end_label = self.label_generator.new()
 
         self.emit(
-            f"if False {condition} goto {false_label}"
+            f"ifFalse {condition} goto {false_label}"
         )
 
         self.statement()

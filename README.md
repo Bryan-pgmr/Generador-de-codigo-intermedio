@@ -18,7 +18,7 @@ Desde la carpeta raíz:
 python index.py
 ```
 
-## Ejemplo válido
+## Ejemplo válido precargado
 
 ```c
 x = 6 * (2 + 3) / 5 - 1;
