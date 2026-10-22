@@ -26,7 +26,7 @@ Proyecto de Lenguajes y Autómatas II para generar código intermedio de tres di
 
 Descargue el proyecto de GitHub mediente "Code" --> Download ZIP.
 
-DEscomprimir el proyecto a una carpeta de visual studio.
+Descomprimir el proyecto a una carpeta de visual studio.
 
 Tener python instalado en la computadora.
 
