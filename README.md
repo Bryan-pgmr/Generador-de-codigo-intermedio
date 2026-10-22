@@ -24,19 +24,21 @@ Proyecto de Lenguajes y Autómatas II para generar código intermedio de tres di
 
 ## Instrucciones de Ejecución
 
-Descargue el proyecto de GitHub mediente <code>-->Download ZIP.
+Descargue el proyecto de GitHub mediente "Code" --> Download ZIP.
 
 DEscomprimir el proyecto a una carpeta de visual studio.
 
 Tener python instalado en la computadora.
 
-Abre una terminsl dentro de la carpeta del proyecto.
+Abre una terminal dentro de la carpeta del proyecto.
 
 Desde la carpeta raíz del proyecto ejecuta:
 
 ```bash
 python index.py
 ```
+
+En otro caso Ejecute el index.py desde el boton de ejecutar de visual studio.
 
 ## Ejemplo válido precargado
 
